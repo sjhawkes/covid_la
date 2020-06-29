@@ -35,7 +35,7 @@ A similar pattern is observed at the county scale, communities with higher popul
 
 More informative than the total number of cases is the rate at which new cases are appearing. In epidemiology there is the concept of "flattening the curve", an idea that measures can be taken that will slow the rate of infection so that the health care system can keep up with the active cases. Infection rate is a very difficult parameter to measure because each community may be exposed at a different time, so there can be a time lag as the infection moves from region to region. 
 
-<img src="./images/la_county_case_growth_250.png" alt="Example" width="425" height="">
+<img src="./images/la_county_case_growth_250.png" alt="Example" width="600" height="">
 
 The graph above shows the proportion of cases as a time series for each subregion of LA County. Each line is from a specific subregion and is normalized by the maximum number of cases in that subregion. Note that each curve begins at zero in early March when there were no confirmed cases. More importantly, each curve terminates at one in late June. This indicates that every region is currently experiencing it's maximum recorded case number. The shape of the line in between shows whether the rate of infection is increasing (curving up) or decreasing (flattening out). While there are a couple regions that appear to flatten out, the vast majority of subregions are either steadily increasing or are accelerating the rate at which new cases appear.
 
